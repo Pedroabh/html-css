@@ -1,0 +1,56 @@
+Harmonia de Cores 
+Circulo Cromatico 
+
+12 cores principais: 
+Usado para harmonizar as cores 
+
+Cores primarias 
+Amerelo, vermelho e azul - são simetricas (n fica tao bonita na tela )
+
+cores secudanria
+Laranja, verde e violeta
+
+cores terciária
+cores misturadas (primarias+secundarias)
+ex: amerelo-esverdeado
+azul-esverdeado
+vermelho-arroxeado
+amerelo-alaranjado
+vermelho-alaranjado
+azul-arroxeado
+
+Temperaturas de Cores
+cores frias (verde,azul,roxo)
+cores quentes(amerelo, laranja,vermelho,violeta(roxo mais claro))
+
+paleta de cores (de 3 a 5 cores)
+
+cores complemetares
+ex: violeta e amarelo, vermelhor e verde, azul e laranja 
+
+cores analogas
+ex: violeta (pegar cores ao lado , roxo, lisas)
+
+cores analogas e uma completar 
+
+cores alaogas relacionadas 
+duas cores vizinhas pula a proxima e pega a outra 
+
+cores intercaladas 
+pega uma cor e pula a vizinha e pega a outra e deps repete o modelo 
+
+cores triadicas 
+pega uma e pula tres e pega a outra e pula mais tres e pega outra e pula mais tres 
+
+cores em quadrado 
+pega uma e pula 2 duas e pega uma e pula ...
+
+cores tetradicas
+pega uma cor e pega a completar e pega outra e pega a completar
+
+monocromia
+pega uma cor e modica a saturação e o brilho 
+
+color.adobe.com
+paletton.com
+coolores
