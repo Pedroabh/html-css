@@ -1,4 +1,4 @@
-@charset "UFT-8";
+@charset "UTF-8";
 
 /*Configurações gerais*/
 
@@ -20,4 +20,16 @@ h1 {
     color: white;
     text-shadow: 2px 2px 0px #1526a7;
     padding: 10px;
+}
+/*declarções retrato*/
+@media screen and (orientation: portrait) {
+    body {
+        background: url(../img\ 01.jpg);
+    }
+}
+/*declarações paisagem*/
+@media screen and (orientation: landscape) {
+    body {
+        background: url(../img02.jfif) no-repeat;    
+    }
 }
